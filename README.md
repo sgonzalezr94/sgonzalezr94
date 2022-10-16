@@ -7,8 +7,8 @@
 - 💞️ I’m looking to collaborate on the main Python tools for Web/Backend Development used nowadays such as Django and Flask.
 - 📫 How to reach me
   - 📧 sebastiang1493@gmail.com
-  - 📱 +57 3168171277
-  - 🇺🇸  +1 5168619337
+  - 📱 +57 316-817-1277
+  - 🇺🇸  +1 516-861-9337
 
 <!---
 sgonzalezr94/sgonzalezr94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
