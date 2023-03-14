@@ -4,7 +4,7 @@
 - 🧰 Most of the time I'm leading effective teams🧑‍🤝‍🧑to produce high quality code🚀to meet our client's interests and business goals💼🥇.
 - 🖥️ Backend Engineering - Python 🐍, NodeJS and Go. 
 - 🌱 I'm getting better at GoLang & expanding my System Design knowledge ([Here](https://dataintensive.net/)📖 you'll find a great resource for this).
-- 💞️ I’m looking to collaborate on the main Python tools for Web/Backend Development used nowadays such as Django and Flask.
+- 💞️ I’m looking to collaborate on the main Python tools for Web/Backend Development used nowadays such as Django, Flask, and FASTApi.
 - 📫 How to reach me
   - 📧 sebastiang1493@gmail.com
   - 📱 +57 316-817-1277
