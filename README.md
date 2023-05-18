@@ -49,15 +49,11 @@ me.say_hi()
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 
  
- ## &#x1f4c8; GitHub Stats
+ ## 📊 Github Stats
 
-Most of my work is in confidential accounts and private repos, so my personal Github is all about personal initiatives and studiyg.
-<a href="https://github.com/MartinHeinz/sgonzalezr94">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgonzalezr94&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/sgonzalezr94">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sgonzalezr94&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sebastian's GitHub Stats" />
-</a>
+Most of my work is in confidential accounts and private repos, so my personal Github is all about personal initiatives and studying
+
+![Sebastian's github stats](https://github-readme-stats.vercel.app/api?username=sgonzalezr94&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
 
 
