@@ -11,6 +11,9 @@ class SeniorSoftwareEngineer:
         self.name = "Sebastian Gonzalez R"
         self.role = "Senior Software Engineer"
         self.language_spoken = ["es_CO", "en_US"]
+        self.years_of_experience = 9
+        self.reliable = True
+        self.current_location = "CO"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you are having a great day.")
