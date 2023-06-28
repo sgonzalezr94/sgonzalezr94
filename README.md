@@ -26,7 +26,7 @@ me.say_hi()
 
 - 👀 Software Engineer & Computer Scientist from Cali, Colombia. 
 - 👨‍💻 Currently working @ [EPAM](https://www.epam.com/), I'm a Lead Software Engineer & Development Consultant.
-- 🧰 Most of the time I'm leading effective teams🧑‍🤝‍🧑to produce high quality code🚀to meet our client's interests and business goals💼🥇.
+- 🧰 Most of the time I'm leading effective teams🧑‍🤝‍🧑& producing high quality code🚀to meet our client's interests and business goals💼🥇.
 - 🖥️ Backend Engineering, mostly.
 - 🌱 I'm getting better at GoLang & expanding my System Design knowledge ([Here](https://dataintensive.net/)📖 you'll find a great resource for this).
 - 💞️ I’m looking to collaborate on the main Python tools for Web/Backend Development used nowadays such as Django, Flask, and FASTApi.
